@@ -1,5 +1,7 @@
 # Cloudflare Tunnel widget for pfSense
 
+[Project details and decision records](docs/project/README.md)
+
 A native pfSense dashboard widget for a `cloudflared` tunnel running directly
 on the firewall.
 
